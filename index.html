@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang ="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> quiz App </title>
+
+    <!--link style.css-->
+    <link rel="stylesheet" href="style.css">
+
+    <!--selecting fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="quiz-container">
+        <h1 style="color: blueviolet; text-decoration:underline solid black 2px;"> QUIZ GAME </h1>
+        <h2 id ="question"> question text </h2>
+        <div class ="options">
+            <button class ="option" onclick="selectAnswer(0)"> option 1 </button>
+            <button class ="option" onclick="selectAnswer(1)"> option 2 </button>
+            <button class ="option" onclick="selectAnswer(2)"> option 3 </button>
+            <button class ="option" onclick="selectAnswer(3)"> option 4 </button>
+        </div>
+ 
+        <button id = "next-btn" onclick="nextQuestion()"> next </button>
+        <h3 id ="score"> score: 0 </h3>
+        <button id ="retake-btn" onclick="retakeQuiz()" style="display: none;"> Retake Quiz </button>
+    </div>
+        
+       <script src="index.js"> </script>
+        
+    </body>   
+
+</body>
