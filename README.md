@@ -12,9 +12,9 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-The Interactive Quiz Application is a web-based platform designed to engage users in an enjoyable and educational question-and-answer experience. This project focuses on delivering a responsive, user-friendly, and visually appealing interface where participants can test their knowledge across various topics. The application is ideal for educational institutions, corporate training, online learning platforms, and general knowledge enthusiasts.
+THE INTERACTIVE QUIZ APPLICATION IS A WEB-BASED PLATFORM DESIGNED TO ENGAGE USERS IN AN ENJOYABLE AND EDUCATIONAL QUESTION-AND-ANSWER EXPERIENCE. THIS PROJECT FOCUSES ON DELIVERING A RESPONSIVE, USER-FRIENDLY, AND VISUALLY APPEALING INTERFACE WHERE PARTICIPANTS CAN TEST THEIR KNOWLEDGE ACROSS VARIOUS TOPICS. THE APPLICATION IS IDEAL FOR EDUCATIONAL INSTITUTIONS, CORPORATE TRAINING, ONLINE LEARNING PLATFORMS, AND GENERAL KNOWLEDGE ENTHUSIASTS. 
 
-The system allows administrators or quiz creators to add, edit, and manage quizzes with multiple-choice, true/false, and fill-in-the-blank question types. Users can select a quiz category, attempt the quiz, view real-time feedback, and track their scores. The application ensures interactivity through dynamic question rendering, progress indicators.
+THE SYSTEM ALLOWS ADMINISTRATORS OR QUIZ CREATORS TO ADD, EDIT, AND MANAGE QUIZZES WITH MULTIPLE-CHOICE, TRUE/FALSE, AND FILL-IN-THE-BLANK QUESTION TYPES. USERS CAN SELECT A QUIZ CATEGORY, ATTEMPT THE QUIZ, VIEW REAL-TIME FEEDBACK, AND TRACK THEIR SCORES. THE APPLICATION ENSURES INTERACTIVITY THROUGH DYNAMIC QUESTION RENDERING, PROGRESS INDICATORS.
 
 TECHNOLOGIES USED:
 
